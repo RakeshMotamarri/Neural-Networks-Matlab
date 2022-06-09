@@ -7,7 +7,7 @@ To learn shallow networks mat lab Neural fitting (nftool) is used.This tool help
 preloaded datasets and along with those datasets external set can also be used.
 This GUI provides three kinds of training algorithms.
 • Bayesian Regularization :
-This algorithm takes up more time compared to others but results are worth the wait nd Training
+This algorithm takes up more time compared to others but results are worth the wait and Training
 stops according to adaptive weight minimization (regularization).
 • Scaled Conjugate Gradient :
 This algorithm occupies less memory and automatically stops when generalization stops improving.
